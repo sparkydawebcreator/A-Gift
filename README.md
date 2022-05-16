@@ -1,2 +1,4 @@
 # A-Gift
-download it and find out...
+
+Monday May 16th, 2022: Started working on this project
+END DATE: By June, 2022 (?)
